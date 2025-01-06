@@ -4,6 +4,4 @@
 #
 ##################################################
 
-print("My favorite treat is also "  +  input("What is your favorite treat?"))
-
 
